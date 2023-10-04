@@ -71,3 +71,42 @@ img
 {
 	cursor: pointer;
 }
+
+
+@media only screen and (max-width:915px)
+{
+	#image-div
+	{
+		max-width: 360px;
+		height:350px;
+		top:-460px;
+	}
+	#trade-image
+	{
+		height:480px;
+	}
+	#image-scout
+	{
+		max-width: 70px;
+		height:80px;
+	}
+	#image-header
+	{
+		font-size:26px;
+	}
+	#for-those
+	{
+		font-size: 15px;
+	}
+}
+@media only screen and (max-width:412px)
+{
+	#trade-image
+	{
+		height: 1000px;
+	}
+	#image-div
+	{
+		top:-800px;
+	}
+}
