@@ -99,11 +99,23 @@ img
 		font-size: 15px;
 	}
 }
+@media only screen and (max-width:800px)
+{
+	#trade-image
+	{
+		height: 1300px;
+	}
+	#image-div
+	{
+		top:-900px;
+	}
+}
 @media only screen and (max-width:412px)
 {
 	#trade-image
 	{
 		height: 1000px;
+		
 	}
 	#image-div
 	{
