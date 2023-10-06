@@ -105,12 +105,12 @@ video
 	}
 	#youtube-video
 	{
-		top:-50px;
+		top:20px;
 		font-size:20px;
 	}
 	#yt-image
 	{
-		top:-100px;
+		top:-30px;
 		left:-120px;
 	}
 }
