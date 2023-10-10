@@ -30,6 +30,10 @@ display:inline-block;
 	cursor: pointer;
 	opacity: 0.6;
 }
+#info
+{
+	opacity: 0.6;
+}
 
 
 
